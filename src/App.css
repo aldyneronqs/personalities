@@ -1,0 +1,26 @@
+.photo {
+    width: 350px;
+    height: 350px;
+}
+
+.details {
+    display: block;
+}
+
+button {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    margin: 5px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: bold;
+    transition: all 0.3s ease;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+  }
+  
+  button:hover {
+    background-color: #496079;
+  }
